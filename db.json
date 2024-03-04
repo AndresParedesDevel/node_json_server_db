@@ -1,0 +1,66 @@
+{
+  "profesores": [
+    {
+      "nombre": "Andres",
+      "apellido": "Paredes",
+      "materias": [
+        {
+          "nombre": "Java"
+        },
+        {
+          "nombre": "Laravel"
+        },
+        {
+          "nombre": "JavaSript"
+        }
+      ],
+      "id": "3470"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Luis",
+      "apellido": "Rodriguez",
+      "promedio": 7.5,
+      "id": "d2cb"
+    },
+    {
+      "nombre": "Carolina",
+      "apellido": "Mamana",
+      "promedio": 8.5,
+      "id": "ab7f"
+    },
+    {
+      "nombre": "Roberto",
+      "apellido": "Lopez",
+      "promedio": 9,
+      "id": "263a"
+    },
+    {
+      "id": "3150",
+      "nombre": "Julio",
+      "apellido": "Cortaza",
+      "promedio": 9
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Introducion a Java",
+      "duracion": "9 hs semanales",
+      "dificultad": "Intermedio",
+      "id": "f834"
+    },
+    {
+      "nombre": "Laravel I",
+      "duracion": "4 hs semanales",
+      "dificultad": "Intermedio",
+      "id": "6aa3"
+    },
+    {
+      "nombre": "Desarrollo en JavaSript",
+      "duracion": "6 hs semanales",
+      "dificultad": "Alta",
+      "id": "8c67"
+    }
+  ]
+}
